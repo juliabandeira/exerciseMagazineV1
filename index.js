@@ -42,4 +42,3 @@ function handleClick(event) {
 
 article.forEach((a) => a.addEventListener("click", handleClick));
 
-console.log(article);
